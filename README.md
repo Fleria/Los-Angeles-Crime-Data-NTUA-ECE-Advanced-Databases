@@ -1,7 +1,7 @@
 # AdvancedDatabasesNTUA23
 Final project of the course Advanced Databases - 9th semester, Electrical Computer Engineering, National Technical University of Athens.
 
-Series of queries regarding big data on the datasets 'Los Angeles Crime Data', [2010-2010](https://catalog.data.gov/dataset/crime-data-from-2010-to-2019) and [2020-2023](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). 
+Series of queries regarding Big Data on the datasets 'Los Angeles Crime Data', [2010-2010](https://catalog.data.gov/dataset/crime-data-from-2010-to-2019) and [2020-2023](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). 
 Project runs on Apache Spark over Apache Hadoop Yarn using HDFS. All queries are implemented using Python PySpark.
 
 Project assignment can be found [here](https://github.com/despoinavdl/AdvancedDatabasesNTUA23/blob/main/advanced_db_project.pdf).
